@@ -1,0 +1,28 @@
+
+.btnDelete{
+    text-align:center;
+    padding: 200px;
+}
+.delete {
+    border: 1px solid rgb(160, 11, 11);
+    border-radius: 5px;
+    background: #F3A751;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px 14px;
+}
+.delete:hover {
+    border: 1px solid #fff;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+.delete span {
+    background: rgb(255, 255, 255);
+    color: rgb(160, 11, 11);
+    padding: 7px 15px;
+    border-radius: 36px;
+    font-size: 27px;
+    font-weight: bold;
+}
